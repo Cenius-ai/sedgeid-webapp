@@ -1,0 +1,14 @@
+# SedgeID writes its state into the working directory; never commit it.
+sedgeid_tally.csv
+.sedgeid_config.json
+summary.csv
+demo_run/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Environment
+.env

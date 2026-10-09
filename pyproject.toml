@@ -1,0 +1,5 @@
+# SedgeID ships as a single standard-library module (sedgeid.py), so this file
+# only configures the test runner. There is nothing to build or install.
+[tool.pytest.ini_options]
+testpaths = ["test_sedgeid.py"]
+addopts = "-q"

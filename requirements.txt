@@ -1,0 +1,6 @@
+# SedgeID runtime dependencies: none.
+#
+# sedgeid.py is a single standard-library-only file, so the tool itself needs
+# nothing installed.  This manifest declares the one development dependency the
+# test suite uses, pinned to a released version.
+pytest==9.1.1
