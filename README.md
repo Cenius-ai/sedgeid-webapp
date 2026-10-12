@@ -41,7 +41,7 @@ See [`INSTALL.md`](INSTALL.md) for full setup and usage instructions.
 
 ## Architecture
 
-Full-stack app project, delivered as a complete runnable codebase (22 files). Kick off `./install.sh` to pull packages and seed the database, then the app is up. Installation walkthrough: [`INSTALL.md`](INSTALL.md).
+Full-stack app project, delivered as a complete runnable codebase (12 files). Kick off `./install.sh` to pull packages and seed the database, then the app is up. Installation walkthrough: [`INSTALL.md`](INSTALL.md).
 
 ## Usage guide
 
